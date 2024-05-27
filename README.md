@@ -1,5 +1,5 @@
 # notassimulacionestocastica
-Notas creadas para la clase de simulación estocástica de la facultad de ciencias, se busca explicar la parte intuitiva de los algoritmos principales y mostrar como funcionan mediante código en R desde notebooks.
+Aquí iré subiendo notas creadas para la clase de simulación estocástica de la facultad de ciencias, se busca explicar la parte intuitiva de los algoritmos principales y mostrar como funcionan mediante código en R desde notebooks en Jupyter.
 
 GeneradoresCongruenciales
 Se presentan algunos ejemplos de generadores congruenciales.
